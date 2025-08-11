@@ -31,15 +31,15 @@
 <br>
 
 ### 💻 프로젝트 경험이 있어요.
-- [API Ghost](https://github.com/JIPPY-HBHW) : 드래그 앤 드롭만으로 연계 API 테스트나 부하테스트를 손쉽게 할 수 있도록 돕는 오픈소스 프로젝트
-- [Safe Connect](https://github.com/kobenlys/K6Weaver) : 기존의 분산되었던 응급신고 체계를 화상통화를 기반으로 하나로 통합한 서비스.
+- [API Ghost](https://github.com/api-ghost) : 드래그 앤 드롭만으로 연계 API 테스트나 부하테스트를 손쉽게 할 수 있도록 돕는 오픈소스 프로젝트
+- [Safe Connect](https://github.com/sung-jun98/safe-connect) : 기존의 분산되었던 응급신고 체계를 화상통화를 기반으로 하나로 통합한 서비스.
 OpenVidu를 통해서 WebRTC 기반 화상통화 기능 구현. 
 
 <br>
 
 ### 🏅 수상 경험이 있어요.
 
-- 공통 프로젝트 우수상 -  삼성 청년 소프트웨어 아카데미 (SSAFY) (2025.02): [통합 응급의료 솔루션 Safe Connect]([https://github.com/JIPPY-HBHW](https://github.com/sung-jun98/safe-connect))
+- 우수상 (삼성 청년 소프트웨어 아카데미 12기) (2025.02): [통합 응급의료 솔루션 Safe Connect]([https://github.com/JIPPY-HBHW](https://github.com/sung-jun98/safe-connect))
 
 <br>
 
