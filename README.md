@@ -28,6 +28,10 @@
 
 <br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokyung923)](https://solved.ac/wke1wke1)
+<img src="http://mazandi.herokuapp.com/api?handle=seokyung923&theme=warm"/>
+
 <br>
 
 ### 💻 프로젝트 경험이 있어요.
