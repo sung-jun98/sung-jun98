@@ -28,7 +28,7 @@
 
 <br>
 
-![TokenPhage](https://api.tokenphage.com/badge/sung-jun98?theme=grass-claude&mode=light)
+![TokenPhage](https://api.tokenphage.com/badge/sung-jun98?theme=grass-claude&mode=dark)
 
 
 <br>
